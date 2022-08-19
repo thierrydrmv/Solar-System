@@ -1,6 +1,7 @@
 {
   "name": "solar-system",
   "version": "0.1.0",
+  "homepage": "./build",
   "private": true,
   "engines": {
     "node": "16"
@@ -22,10 +23,6 @@
     "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js,.jsx"
   },
   "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
   },
   "browserslist": {
     "production": [
