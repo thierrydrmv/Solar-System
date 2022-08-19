@@ -12,7 +12,9 @@
 
 ## 📝 Sobre
 
-O projeto **SolarSystem** é uma página web construída em react. Foi criada durante o módulo de front-end da **Trybe** com o objetivo de colocar em prática todo o conhecimento adquirido.
+O projeto **SolarSystem** é uma página web construída em react. Foi criada durante o módulo de front-end da **Trybe** com o objetivo de colocar em prática: Criar e manipular componentes em React;
+Fazer o uso de Props para passar valores aos componentes;
+Utilizar o PropTypes para checagem de tipos;
 
 ---
 
