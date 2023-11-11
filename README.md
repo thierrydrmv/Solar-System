@@ -24,18 +24,6 @@ In this project, I was able to:
 - Use Props to pass values ​​to components;
 - Use PropTypes for type checking;
   
-## ⬇️ Installing dependencies
-
-
-  ```bash
-  npm install
-  ``` 
-
-## 🧪 Running the tests
-
-  ```
-  npm test
-  ```
 
 ## 💬 Contact
 
